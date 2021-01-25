@@ -53,6 +53,13 @@ public interface UserMapper {
 
 
     public void test11();
+    public void test12();
+    public void test13();
+    public void test14();
+    public void test15();
+    public void test16();
+    public void test17();
+    public void test01();
     public void test21();
     public void test31();
     public void test41();
