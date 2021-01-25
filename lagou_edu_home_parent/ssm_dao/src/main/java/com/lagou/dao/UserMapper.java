@@ -46,7 +46,10 @@ public interface UserMapper {
      */
     List<Resource> findResourceByRoleId(List<Integer> ids);
 
-
+    /**
+     * 5、获取用户拥有的资源权限信息2
+     */
+    List<Resource> findResourceByRoleId2(List<Integer> ids);
 
 
 }
