@@ -51,14 +51,14 @@ public interface UserMapper {
      */
     List<Resource> findResourceByRoleId2(List<Integer> ids);
     
-    
-    public void test1();
-    public void test2();
-    public void test3();
-    public void test4();
-    public void test5();
-    public void test6();
-    public void test7();
+
+    public void test01();
+    public void test02();
+    public void test03();
+    public void test04();
+    public void test05();
+    public void test06();
+    public void test07();
 
 
 }
